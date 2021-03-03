@@ -12,6 +12,7 @@
     "jsonwebtoken": "^8.5.1",
     "mysql2": "^2.2.5",
     "sequelize": "5.18.4",
+    "yarm": "^0.4.0",
     "yarn": "^1.22.10"
   },
   "devDependencies": {
